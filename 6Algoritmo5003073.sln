@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Algoritmo5003073", "6Algoritmo5003073\6Algoritmo5003073.csproj", "{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA530767-5FAF-4BF8-A285-07D7B5E6C1A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37339CDA-1907-4137-8B2E-D4A464CCD473}
+	EndGlobalSection
+EndGlobal
